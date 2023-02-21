@@ -6,4 +6,4 @@ const sumOfSequence = (n) => {
   }
   return result;
 }
-sumOfSequence(10);
+console.log(sumOfSequence(10));
